@@ -50,7 +50,7 @@ const app = {
 
   songs: [
     {
-      name: "Khi me lớn (English version)",
+      name: "Khi em lớn (English version)",
       singer: "Orange",
       path: "./assets/music/Khi Em Lon English Version_ - Orange.m4a",
       image: "./assets/img/Khi-em-lon.png"

@@ -148,7 +148,7 @@ header h2 {
   background-color: var(--hover-button-color);
 }
 
-.control .btn:active {
+.control .btn.active {
   color: var(--primary-color);
 }
 

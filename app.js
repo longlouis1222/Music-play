@@ -50,6 +50,24 @@ const app = {
 
   songs: [
     {
+      name: "Don't Wanna Know",
+      singer: "Maroon 5_ Kendrick La",
+      path: "./assets/music/Don_t Wanna Know - Maroon 5_ Kendrick La.m4a",
+      image: "./assets/img/Dont-wanna-know.png"
+    },
+    {
+      name: "Heartbreak Anniversary",
+      singer: "Conor Maynard",
+      path: "./assets/music/Heartbreak Anniversary - Conor Maynard.m4a",
+      image: "./assets/img/Heartbreak-anniversary.png"
+    },
+    {
+      name: "My Heart Will Go On",
+      singer: "Celine Dion",
+      path: "./assets/music/My Heart Will Go On - Celine Dion.m4a",
+      image: "./assets/img/My-Heart-Will-Go-On.png"
+    },
+    {
       name: "Khi em lớn (English version)",
       singer: "Orange",
       path: "./assets/music/Khi Em Lon English Version_ - Orange.m4a",
